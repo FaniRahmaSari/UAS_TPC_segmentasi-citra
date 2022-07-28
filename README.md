@@ -1,0 +1,1 @@
+# UAS_TPC_segmentasi-citra
